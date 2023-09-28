@@ -1,0 +1,5 @@
+{
+    "usePyrightForTypes": true,
+    "venvPath": "path/to/your/virtualenv",
+    "reportMissingImports": "warning"
+}
